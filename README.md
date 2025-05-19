@@ -3,8 +3,6 @@
 
 This UiPath RPA bot automates the process of checking unread emails in a Gmail inbox, downloading attachments, and saving them locally. It's ideal for automating routine document collection tasks.
 
-> ✅ Note: This project was created with the help of an existing template and video tutorial, and customized to suit my learning goals and requirements.
-
 ---
 
 ## 🚀 Features
